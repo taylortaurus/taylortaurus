@@ -3,3 +3,8 @@
 </a>
 
 # Hello レム!
+
+<p align="left"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/taylortaurus/count.svg" />
+</p>
